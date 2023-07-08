@@ -9,9 +9,9 @@
 /* Colors */
 
 :root {
-  --first-color: #4070f4;
+  --first-color: #f44940;
   --second-color: #0e2431;
-  --gardient-color: linear-gradient(to right, #5001fb, #8e0af3);
+  --gardient-color: linear-gradient(to right, #fb1201, #f3860a);
 }
 
 /* FONT STYLE */
@@ -342,12 +342,12 @@ img {
   width: 85%;
 }
 
-.skill_js {
+.skill_py {
   width: 75%;
 }
 
-.skill_ui {
-  width: 85%;
+.skill_java {
+  width: 60%;
 }
 
 /* WORK */
@@ -523,4 +523,9 @@ img {
   .home_img {
     right: 10%;
   }
+}
+#msg{
+  color: #3aff17;
+  margin-top: 4px;
+  display: block;
 }
